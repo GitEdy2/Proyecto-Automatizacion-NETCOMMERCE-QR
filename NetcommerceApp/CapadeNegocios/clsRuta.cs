@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CapadeNegocios
 {
-    class clsRuta
-    {
+    public class clsRuta
+    { 
         private string nombreruta;
         private string clienteruta;
         private string provinciaruta;
